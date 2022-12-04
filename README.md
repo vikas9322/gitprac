@@ -43,3 +43,5 @@ $ cd client
 $ yarn install
 $ yarn start
 ```
+# gitprac
+To practice git
